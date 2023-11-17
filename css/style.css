@@ -152,7 +152,7 @@ button:focus {
 }
 
 .title_w {
-  color: #fff;
+  color: #166187;
 }
 
 .title {
@@ -167,9 +167,9 @@ button:focus {
   font-size: 14px;
   line-height: 30px;
   text-transform: uppercase;
-  color: #fff;
+  color: #166187;
   font-weight: 600;
-  background: #f3c300;
+  background: #f2eabb;
   padding: 5px 30px;
 }
 
@@ -215,7 +215,7 @@ button:focus {
   -ms-transform: translateX(-100%);
   transform: translateX(-100%);
   z-index: -1;
-  background: #f8b100;
+  background: #134c69;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -246,8 +246,8 @@ button:focus {
 .book_now_btn {
   width: 100%;
   display: block;
-  background: #f3c300;
-  color: #222222;
+  background: #f2eabb;
+  color: #166187;
   text-transform: uppercase;
   font-size: 14px;
   line-height: 30px;
@@ -556,7 +556,7 @@ button:focus {
 
 /*============= End banner_area css =============*/
 .hotel_booking_table {
-  background: #04091e;
+  background: #bfecef;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -569,7 +569,8 @@ button:focus {
 .hotel_booking_table h2 {
   font-size: 24px;
   line-height: 30px;
-  color: #fff;
+  color: #166187
+  ;
   text-transform: uppercase;
 }
 
@@ -586,7 +587,7 @@ button:focus {
 }
 
 .book_tabel_item .form-group .input-group .form-control {
-  border: 1px solid #2b3146;
+  border: 1px solid #c5b573;
   background: transparent;
   border-radius: 0px;
   font-size: 13px;
@@ -639,7 +640,7 @@ button:focus {
 .book_tabel_item .nice-select {
   background: transparent;
   border-radius: 0px;
-  border: 1px solid #2b3146;
+  border: 1px solid #c5b573;
   font-size: 13px;
   line-height: 40px;
   height: 40px;
@@ -824,7 +825,7 @@ button:focus {
 .facilities_area {
   position: relative;
   z-index: 1;
-  background: #04091e;
+  background: #bfecef;
   overflow: hidden;
 }
 
@@ -838,13 +839,14 @@ button:focus {
   border-radius: 10px;
   background-color: rgba(249, 249, 255, 0.102);
   padding: 31px 40px 37px;
-  color: #fff;
+  color: #166187;
   margin-bottom: 30px;
 }
 
 .facilities_item .sec_h4 {
   padding-bottom: 18px;
-  color: #fff;
+  color: #166187
+  ;
 }
 
 .facilities_item .sec_h4 i {
@@ -1102,7 +1104,7 @@ button:focus {
 }
 
 .categories_post:hover .categories_details {
-  background: rgba(248, 182, 0, 0.85);
+  background: #f2eabbc4;
 }
 
 /*============ blog_left_sidebar css ==============*/
@@ -1197,9 +1199,9 @@ button:focus {
 .blog_right_sidebar .widget_title {
   font-size: 18px;
   line-height: 25px;
-  background: #f3c300;
+  background: #f2eabb;
   text-align: center;
-  color: #fff;
+  color: #166187;
   padding: 8px 0px;
   margin-bottom: 30px;
 }
@@ -1210,27 +1212,27 @@ button:focus {
   border: 0px;
   width: 100%;
   font-weight: 300;
-  color: #fff;
+  color: #166187;
   padding-left: 20px;
   border-radius: 45px;
   z-index: 0;
-  background: #f3c300;
+  background: #f2eabb;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
-  color: #fff;
+  color: #166187;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control:-moz-placeholder {
-  color: #fff;
+  color: #166187;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control::-moz-placeholder {
-  color: #fff;
+  color: #166187;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control::-webkit-input-placeholder {
-  color: #fff;
+  color: #166187;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control:focus {
@@ -1407,8 +1409,8 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-  background: #f8b600;
-  color: #fff;
+  background: #f2eabb;
+  color: #166187;
   font-size: 12px;
   line-height: 38px;
   display: inline-block;
@@ -1439,8 +1441,8 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #f3c300;
-  color: #fff;
+  background: #f2eabb;
+  color: #166187;
 }
 
 .blog_right_sidebar .br {
@@ -1469,9 +1471,9 @@ button:focus {
 }
 
 .blog-pagination .page-item.active .page-link {
-  background-color: #f3c300;
+  background-color: #f2eabb;
   border-color: transparent;
-  color: #fff;
+  color: #166187;
 }
 
 .blog-pagination .page-link {
@@ -1494,9 +1496,9 @@ button:focus {
 }
 
 .blog-pagination .page-link:hover {
-  color: #fff;
+  color: #166187;
   text-decoration: none;
-  background-color: #f3c300;
+  background-color: #f2eabb;
   border-color: #eee;
 }
 
@@ -1736,8 +1738,10 @@ button:focus {
 }
 
 .comments-area .btn-reply:hover {
-  background-color: #f3c300;
-  color: #fff;
+  background-color: #f2eabb
+  ;
+  color: #166187
+  ;
 }
 
 .comment-form {
@@ -1826,10 +1830,10 @@ button:focus {
 .comment-form .primary-btn {
   border-radius: 0px !important;
   border: 1px solid transparent;
-  color: #fff;
+  color: #166187;
   text-transform: uppercase;
   font-weight: 600;
-  background: #f8b600;
+  background: #f2eabb;
   display: inline-block;
   padding: 7px 44px;
   -webkit-transition: all 0.2s linear;
@@ -1838,12 +1842,14 @@ button:focus {
 }
 
 .comment-form .primary-btn:before {
-  background: #f3c300;
+  background: #f2eabb;
 }
 
 .comment-form .primary-btn:hover {
-  border-color: #f3c300 !important;
-  color: #fff  !important;
+  border-color: #f2eabb
+  !important;
+  color: #166187
+  !important;
 }
 
 /*============ End Blog Single Styles  =============*/
@@ -3477,7 +3483,7 @@ h1, h2, h3, h4, h5, h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
-  background: #04091e;
+  background: #bfecef;
   padding: 142px 0px;
 }
 
@@ -3492,7 +3498,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget ul li a:hover {
-  color: #f3c300;
+  color: #f2eabb;
 }
 
 .single-footer-widget .instafeed {
@@ -3545,8 +3551,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget .sub-btn {
-  background: #f3c300;
-  color: #fff;
+  background: #f2eabb;
+  color: #166187;
   font-weight: 300;
   border-radius: 0;
   line-height: 34px;
@@ -3561,7 +3567,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
-  color: #fff;
+  color: #166187;
   text-transform: uppercase;
   margin-bottom: 28px;
 }
